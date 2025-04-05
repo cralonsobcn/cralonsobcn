@@ -1,6 +1,6 @@
 # About Me
 
-I'm Cristian, a Junior Google Cloud Engineer with Kubernetes and GCP certifications who possesses a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
+I'm Cristian, a Junior Cloud/Software Engineer with Kubernetes and GCP certifications who possesses a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
 
 Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s homelab.
 
