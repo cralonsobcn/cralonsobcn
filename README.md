@@ -15,13 +15,13 @@ At this moment I focus my efforts on getting the AWS SAA, Terraform Associate an
 English, Spanish, Catalan
 
 ## 💻 Tech Stack:
-- #### Languages: ![Java](https://img.shields.io/badge/java-3670A0.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-grey.svg?style=plastic&logo=gnu-bash&logoColor=white)
+- #### Languages: ![Java](https://img.shields.io/badge/java-000000.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00) ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-4EAA25.svg?style=plastic&logo=gnu-bash&logoColor=black)
 
-- #### Databases: ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=plastic&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-3670A0.svg?style=plastic&logo=sqlite&logoColor=white)
+- #### Databases: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=plastic&logo=sqlite&logoColor=cinder)
 
-- #### Virtualization: ![Proxmox](https://img.shields.io/badge/proxmox-blue?style=plastic&logo=proxmox&logoColor=#E57000)![Virtualbox](https://img.shields.io/badge/virtualbox-white?style=plastic&logo=virtualbox&logoColor=2F61B4)
+- #### Virtualization: ![Proxmox](https://img.shields.io/badge/proxmox-blue?style=plastic&logo=proxmox&logoColor=#E57000) ![Virtualbox](https://img.shields.io/badge/virtualbox-white?style=plastic&logo=virtualbox&logoColor=2F61B4)
 
-- #### Public Cloud Providers: ![AWS](https://img.shields.io/badge/AWS-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-0039e6.svg?style=plastic&logo=google-cloud&logoColor=white)
+- #### Public Cloud Providers: ![AWS](https://img.shields.io/badge/AWS-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=cinder) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 
 - #### Version control & Remote repo: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
@@ -38,3 +38,4 @@ English, Spanish, Catalan
 ![Fast API](https://img.shields.io/badge/fastapi-009688.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=plastic&logo=django&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
