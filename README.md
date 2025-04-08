@@ -33,7 +33,7 @@ English, Spanish, Catalan
 
 - #### Other: ![Rocky Linux](https://img.shields.io/badge/rockylinux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/traefikproxy-24A1C1?stye=plastic&logo=traefikproxy&logoColor=f5f5f5)
 
-## 🕔 Ongoing Tech Stacks...
+## 🕔 In progress Tech Stacks...
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Fast API](https://img.shields.io/badge/fastapi-009688.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=plastic&logo=django&logoColor=white)
