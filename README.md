@@ -1,5 +1,5 @@
 # About Me
-I'm Cristian, a Junior Cloud/Software Engineer based in Barcelona (Spain), with Kubernetes and GCP certifications who possesses a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
+I'm Cristian, a Junior Cloud/Software Engineer with Kubernetes and GCP certifications who possesses a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
 
 Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s homelab.
 
@@ -33,9 +33,7 @@ English, Spanish, Catalan
 
 - #### Other: ![Rocky Linux](https://img.shields.io/badge/rockylinux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/traefikproxy-24A1C1?stye=plastic&logo=traefikproxy&logoColor=f5f5f5)
 
-## 🕔 In progress Tech Stacks...
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Fast API](https://img.shields.io/badge/fastapi-009688.svg?style=plastic&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=plastic&logo=django&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
+## 🕔 Ongoing Tech Stacks...
+- ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
+- ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
