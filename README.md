@@ -34,6 +34,4 @@ English, Spanish, Catalan
 - #### Other: ![Rocky Linux](https://img.shields.io/badge/rockylinux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/traefikproxy-24A1C1?stye=plastic&logo=traefikproxy&logoColor=f5f5f5)
 
 ## 🕔 Ongoing Tech Stacks...
-- ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
-- ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
