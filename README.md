@@ -1,5 +1,5 @@
 # About Me
-I'm Cristian, a Junior Cloud/Software Engineer based in Barcelona (Spain), with Kubernetes, GCP and Terraform certifications and a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
+I'm, Cristian a Junior Cloud/Software Engineer based in Barcelona (Spain) certified in Kubernetes, Terraform and GCP with a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
 
 Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s Homelab.
 
