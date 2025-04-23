@@ -1,11 +1,11 @@
 # About Me
-I'm Cristian, a Junior Cloud/Software Engineer with Kubernetes and GCP certifications who possesses a strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
+I'm Cristian, a Junior Cloud/Software Engineer based in Barcelona (Spain), with Kubernetes, GCP and Terraform certifications a and strong background in technical escalations. I'm transitioning into a hands-on technical role by specializing in cloud infrastructure, networking and container orchestration.
 
-Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s homelab.
+Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s Homelab.
 
 I'm also a problem solver with strong communication and adaptability skills, capable of prioritizing high volumes of work based on issue severity and internal SLAs, ensuring efficient and organized task management.
 
-At this moment I focus my efforts on getting the AWS SAA, Terraform Associate and Prometheus Associate certificates.
+At this moment I focus my efforts on getting the AWS SAA and Prometheus Associate certifications.
 
 [![Website](https://img.shields.io/badge/website-3b3b39.svg?logo=github&logoColor=white)](https://cralonsobcn.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-a-811a2b148)
@@ -34,4 +34,6 @@ English, Spanish, Catalan
 - #### Other: ![Rocky Linux](https://img.shields.io/badge/rockylinux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/traefikproxy-24A1C1?stye=plastic&logo=traefikproxy&logoColor=f5f5f5)
 
 ## 🕔 Ongoing Tech Stacks...
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
+- ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
+- ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
