@@ -27,13 +27,13 @@ English, Spanish, Catalan
 
 - #### Version control & Remote repo: ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-- #### Containerization & Orchestration: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+- #### Containerization & Orchestration: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230db7ed?style=plastic&logo=helm&logoColor=white)
 
 - #### Infrastructure as Code: ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 
 - #### Observability: ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) 
 
-- #### Other: ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=f5f5f5) ![Helm](https://img.shields.io/badge/Helm-%230db7ed?style=plastic&logo=helm&logoColor=white)
+- #### Other: ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=f5f5f5) 
 
 ## 🕔 Ongoing Tech Stacks...
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
