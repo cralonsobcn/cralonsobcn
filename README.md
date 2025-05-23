@@ -1,11 +1,13 @@
 # About Me
-I'm Cristian, a Software Engineer based in Barcelona, Spain and certified in Kubernetes, Terraform and GCP.
+I'm Cristian, a Software Engineer based in Barcelona, Spain and certified in Kubernetes, Terraform and GCP. 
 
-Every new tool, discipline or technology I learn is put to the test in my virtualized environments or personal K8s homelab.
+I'm passionate about Kubernetes, Cloud infrastructure, automation, security, best practices and helping people achieve their goals.
 
-I'm also a problem solver with strong communication and adaptability skills, capable of prioritizing high volumes of work based on issue severity and internal SLAs, ensuring efficient and organized task management.
+Problem solver with strong communication and adaptability skills, capable of prioritizing high volumes of work based on issue severity and internal SLAs, ensuring efficient and organized task management.
 
-At this moment I focus my efforts on getting the AWS SAA and Prometheus Associate certifications.
+For the last two years I’ve been testing technologies in my virtualized environments and personal K8s Homelab based on kubeadm.
+
+As a natural seeker of knowledge, I focus my efforts on achieving the AWS SAA and Prometheus Associate certifications and expand my competences.
 
 [![Website](https://img.shields.io/badge/website-3b3b39.svg?logo=github&logoColor=white)](https://cralonsobcn.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-a-811a2b148)
@@ -31,9 +33,9 @@ English, Spanish, Catalan
 
 - #### Observability: ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) 
 
-- #### Other: ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?stye=plastic&logo=traefikproxy&logoColor=f5f5f5)
+- #### Other: ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=plastic&logo=rockylinux&logoColor=f5f5f5) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=f5f5f5) ![Helm](https://img.shields.io/badge/Helm-%230db7ed?style=plastic&logo=helm&logoColor=white)
 
 ## 🕔 Ongoing Tech Stacks...
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
 - ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
