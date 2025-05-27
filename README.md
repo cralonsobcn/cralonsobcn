@@ -1,5 +1,5 @@
 # About Me
-I'm Cristian, a Software Engineer based in Barcelona, Spain and certified in Kubernetes, Terraform and GCP. 
+I'm Cristian, a Software Engineer based in Barcelona, Spain. Certified Kubernetes, Terraform, and GCP with +2 years of hands-on experience in cloud infrastructure and automation, seeking to leverage expertise in building scalable and secure systems. 
 
 I'm passionate about Kubernetes, Cloud infrastructure, automation, security, best practices and helping people achieve their goals.
 
