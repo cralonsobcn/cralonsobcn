@@ -38,4 +38,9 @@ English, Spanish, Catalan
 ## 🕔 Ongoing Tech Stacks...
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
 - ![Jenkins](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
-- ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=plastic&logo=ansible&logoColor=white)
+
+## 🕔 Next Certifications...
+- ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+- ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+- ![Prometheus Associate](https://img.shields.io/badge/Prometheus%20Associate-E6522C?style=plastic&logo=Prometheus&logoColor=white)
+- ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=cinder)
