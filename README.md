@@ -21,7 +21,7 @@ English, Spanish, Catalan
 
 - #### Databases: ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=plastic&logo=sqlite&logoColor=cinder)
 
-- #### Virtualization: ![Proxmox](https://img.shields.io/badge/proxmox-blue?style=plastic&logo=proxmox&logoColor=#E57000) ![Virtualbox](https://img.shields.io/badge/Virtualbox-white?style=plastic&logo=virtualbox&logoColor=2F61B4)
+- #### Virtualization: ![Proxmox](https://img.shields.io/badge/Proxmox-blue?style=plastic&logo=proxmox&logoColor=#E57000) ![Virtualbox](https://img.shields.io/badge/Virtualbox-white?style=plastic&logo=virtualbox&logoColor=2F61B4)
 
 - #### Public Cloud Providers: ![AWS](https://img.shields.io/badge/AWS-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=cinder) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 
@@ -37,8 +37,8 @@ English, Spanish, Catalan
 
 ## 🕔 Ongoing Tech Stacks...
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
-- ![Jenkins](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
-
+- ![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=plastic&logo=istio&logoColor=white)
+- ![Calico](https://img.shields.io/badge/Calico-FF9900.svg?style=plastic&logo=kubernetes&logoColor=white)
 ## 🕔 Next Certifications...
 - ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
