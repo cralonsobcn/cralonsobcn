@@ -1,5 +1,5 @@
 # About Me
-I'm Cristian, a Software Engineer based in Barcelona, Spain. Certified Kubernetes, Terraform, and GCP with +2 years of hands-on experience in cloud infrastructure and automation, seeking to leverage expertise in building scalable and secure systems. 
+I'm Cristian, a Software Engineer based in Barcelona, Spain. Certified in Kubernetes, Terraform, and GCP with +2 years of hands-on experience in cloud infrastructure and automation, seeking to leverage expertise in building scalable and secure systems. 
 
 I'm passionate about Kubernetes, Cloud infrastructure, automation, security, best practices and helping people achieve their goals.
 
@@ -40,7 +40,7 @@ English, Spanish, Catalan
 - ![Jenkins](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white)
 
 ## 🕔 Next Certifications...
-- ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+- ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![Prometheus Associate](https://img.shields.io/badge/Prometheus%20Associate-E6522C?style=plastic&logo=Prometheus&logoColor=white)
 - ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=cinder)
