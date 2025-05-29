@@ -7,7 +7,7 @@ Problem solver with strong communication and adaptability skills, capable of pri
 
 For the last two years I’ve been testing technologies in my virtualized environments and personal K8s Homelab based on kubeadm.
 
-As a natural seeker of knowledge, I focus my efforts on achieving the AWS SAA, Prometheus Associate, CKAD and CKS certifications to expand my professional competences.
+As a natural seeker of knowledge, I focus my efforts on achieving the Prometheus Associate, CKAD and CKS certifications to expand my professional competences.
 
 [![Website](https://img.shields.io/badge/website-3b3b39.svg?logo=github&logoColor=white)](https://cralonsobcn.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-a-811a2b148)
