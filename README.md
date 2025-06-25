@@ -37,10 +37,6 @@ English, Spanish, Catalan
 
 ## 🕔 Ongoing Tech Stacks...
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white)
-- ![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=plastic&logo=istio&logoColor=white)
-- ![Calico](https://img.shields.io/badge/Calico-FF9900.svg?style=plastic&logo=kubernetes&logoColor=white)
 ## 🕔 Next Certifications...
-- ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![Prometheus Associate](https://img.shields.io/badge/Prometheus%20Associate-E6522C?style=plastic&logo=Prometheus&logoColor=white)
-- ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-b36b00.svg?style=plastic&logo=amazonwebservices&logoColor=cinder)
