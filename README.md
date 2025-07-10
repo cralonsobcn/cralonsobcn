@@ -27,7 +27,7 @@ English, Spanish, Catalan
 
 - #### Version control & Remote repo: ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-- #### Containerization & Orchestration: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230db7ed?style=plastic&logo=helm&logoColor=white) ![Openshift 4](https://img.shields.io/badge/redhatopenshift-EE0000?style=plastic&logo=redhatopenshift&logoColor=white)
+- #### Containerization & Orchestration: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230db7ed?style=plastic&logo=helm&logoColor=white) ![Openshift 4](https://img.shields.io/badge/Openshift-EE0000?style=plastic&logo=redhatopenshift&logoColor=white)
 
 - #### Infrastructure as Code: ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 
