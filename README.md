@@ -38,7 +38,7 @@ English, Spanish, Catalan
 ## 🕔 Next Certifications...
 - ![CKS](https://img.shields.io/badge/CKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 - ![Prometheus Associate](https://img.shields.io/badge/Prometheus%20Associate-E6522C?style=plastic&logo=Prometheus&logoColor=white)
-- ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
+- ![Certified ArgoCD Project Associate](https://img.shields.io/badge/Certified%20ArgoCD%20Project%20Associate-white?style=plastic&logo=argo&logoColor=orange)
 ## 🕔 2026 Certifications...
 - ![Cillium Associate](https://img.shields.io/badge/Cilium%20Associate-F8C517?style=plastic&logo=cilium&logoColor=white)
 - ![Istio Associate](https://img.shields.io/badge/Istio%20Associate-466BB0?style=plastic&logo=istio&logoColor=white)
